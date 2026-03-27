@@ -8,7 +8,7 @@ ticker_symbol = "SPY"
 start_date = "2011-01-01" 
 end_date = "2025-01-01"
 
-#moving averages
+#moving averages (in days)
 fast_ma_period = 20
 slow_ma_period = 50
 
